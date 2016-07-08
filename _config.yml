@@ -101,8 +101,8 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: Lobster Two
-    size: 24
+    family:
+    size:
 
   # Font settings for <code> and code blocks.
   codes:
@@ -201,7 +201,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night
+highlight_theme: normal
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
